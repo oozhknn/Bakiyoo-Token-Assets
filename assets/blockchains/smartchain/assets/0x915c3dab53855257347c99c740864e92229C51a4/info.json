@@ -4,6 +4,7 @@
   "type": "ERC20",
   "decimals": 18,
   "description": "BAKIYOO, yeni nesil bir topluluk tokenıdır.",
+  "logo": "https://raw.githubusercontent.com/ozzhknn/bakiyoo-token/main/assets/blockchains/smartchain/assets/0x915c3dab53855257347c99c740864e92229C51a4/logo.png",
   "explorer": "https://bscscan.com/token/0x915c3dab53855257347c99c740864e92229C51a4",
   "status": "active",
   "id": "0x915c3dab53855257347c99c740864e92229C51a4"
